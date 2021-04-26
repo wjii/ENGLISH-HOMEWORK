@@ -11,6 +11,13 @@
 * [网上的图片](#网上的图片)
 * [代码高亮](#代码高亮)
 * [块引用](#块引用)
+* [项目符号列表](#项目符号列表)
+* [编号列表](#编号列表)
+* [表格](#表格)
+* [粗体字](#粗体字)
+* [斜体文本](#斜体文字)
+* [删除线文本](#删除线文本)
+* [水平线](#水平线)
 #### |四级标题|   外部网页链接
 [百度](https://www.baidu.com "百度")
 #### 我的另一个文件
@@ -26,3 +33,12 @@ int main(int argc, char *argv[]) //C
 #### 块引用
 > a block quote.  
 > Create a directory (you choose its name) to hold the files for this challenge. This directory is to be managed byGit/GitHub.The master branch of the repository on > GitHub is to > hold your final work. You are to submit the Clone with HTTPS URL for there pository on GitHub.
+#### 项目符号列表
+#### 编号列表
+#### 表格
+#### 粗体字
+#### 斜体文本
+#### 删除线文本
+#### 水平线
+一条水平线
+********
