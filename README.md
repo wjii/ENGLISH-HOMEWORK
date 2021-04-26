@@ -24,8 +24,5 @@
 int main(int argc, char *argv[]) //C
 ```
 #### 块引用
-> a block quote.  
->   
->   
->   
->   
+> a block quote.
+> Create a directory (you choose its name) to hold the files for this challenge. This directory is to be managed byGit/GitHub.The master branch of the repository on > GitHub is to > hold your final work. You are to submit the Clone with HTTPS URL for there pository on GitHub.
