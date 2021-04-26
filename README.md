@@ -21,9 +21,9 @@
 #### 外部网页链接
 [百度](https://www.baidu.com "百度")
 #### 我的另一个文件
-[wj.md](https://github.com/blm21/hello-world/blob/main/directory/wj.md)
+[wj.md](https://github.com/blm21/ENGLISH-HOMEWORK/blob/main/directory/wj.md)
 #### 源仓库中的图片
-![百度](https://github.com/blm21/hello-world/blob/main/directory/bdlogo.gif "百度logo")
+![百度](https://github.com/blm21/ENGLISH-HOMEWORK/blob/main/directory/bdlogo.gif "百度logo")
 #### 网上的图片
 ![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")
 #### 代码高亮
