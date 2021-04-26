@@ -14,6 +14,6 @@
 #### 我的另一个文件
 https://github.com/blm21/hello-world/blob/main/directory/wj.md
 #### 源仓库中的图片
-![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![百度](https://github.com/blm21/hello-world/blob/main/directory/bdlogo.gif "百度logo")
 #### 网上的图片
 ![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")
