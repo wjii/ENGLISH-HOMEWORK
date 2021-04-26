@@ -35,6 +35,11 @@ int main(int argc, char *argv[]) //C
 > Create a directory (you choose its name) to hold the files for this challenge. This directory is to be managed byGit/GitHub.The master branch of the repository on > GitHub is to > hold your final work. You are to submit the Clone with HTTPS URL for there pository on GitHub.
 #### 项目符号列表
 #### 编号列表
+```
+1. E
+2. N
+3. G
+```
 #### 表格
 #### 粗体字
 **粗体字示例**<br>
