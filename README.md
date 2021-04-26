@@ -19,7 +19,6 @@
 #### 网上的图片
 ![百度](http://www.baidu.com/img/bdlogo.gif "百度logo")
 #### 代码高亮
-用于显示外部网页链接的代码：
 ```
-[百度](https://www.baidu.com "百度")
+int main(int argc, char *argv[]) //C
 ```
